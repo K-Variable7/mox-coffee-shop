@@ -11,5 +11,5 @@ def withdraw():
     print("Withdrawal completed successfully!")
 
 
-def moccassin_main():
+def moccasin_main():
     return withdraw()
